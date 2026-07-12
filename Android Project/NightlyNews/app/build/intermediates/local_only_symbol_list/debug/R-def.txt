@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color bg_card
+color bg_dark
+color border
+color swipe_refresh
+color tab_text_selector
+color text_dim
+color text_primary
+drawable btn_icon_bg
+drawable dot_accent
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable spinner_bg
+drawable tab_bg
+id recyclerView
+id spinnerState
+id stateContainer
+id swipeRefresh
+id tabLayout
+id tvMessage
+id tvPublished
+id tvSource
+id tvSummary
+id tvTitle
+id tvUpdatedAt
+layout activity_main
+layout activity_splash
+layout item_news
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style TabText
+style Theme.NightlyNews

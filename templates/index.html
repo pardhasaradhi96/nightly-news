@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nightly News</title>
+<link rel="manifest" href="/static/manifest.json">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="dot"></span>
+      <h1>Nightly News</h1>
+    </div>
+    <div class="topbar-right">
+      <span id="fetchedAt" class="fetched-at"></span>
+      <button id="refreshBtn" class="icon-btn" title="Refresh">⟳</button>
+      <button id="themeBtn" class="icon-btn" title="Toggle theme">☾</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    {% for cat in categories %}
+      <button class="tab {% if loop.first %}active{% endif %}" data-category="{{ cat }}">{{ cat }}</button>
+    {% endfor %}
+    <button class="tab" data-category="__state__">State News</button>
+  </nav>
+
+  <div id="stateSelector" class="state-selector">
+    <select id="stateDropdown">
+      <option value="">Select a State / Union Territory</option>
+      {% for s in states %}
+        <option value="{{ s }}">{{ s }}</option>
+      {% endfor %}
+    </select>
+  </div>
+
+  <main id="newsContainer" class="news-grid">
+    <p class="loading">Loading headlines...</p>
+  </main>
+
+  <footer>
+    <p>Reading time before bed: keep it light 🌙 — built just for you.</p>
+  </footer>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nightlynews.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_btn_icon_bg.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\btn_icon_bg.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_spinner_bg.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_tab_bg.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_dot_accent.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\dot_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\color_tab_text_selector.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\color\\tab_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nightlynews.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nightlynews.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RK\\.gradle\\daemon\\8.2\\com.nightlynews.app-main-42:\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
